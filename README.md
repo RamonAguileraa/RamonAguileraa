@@ -1,6 +1,7 @@
 ### <h1>Hi there im Ramón Aguilera! 👋</h1>
 <hr/>
 <h3> ✨ My passion for technology drives me to continuously learn and experiment with the latest tools and languages. I´m A highly motivated software developer and designer with a passion for technology. 
+
 <ul>
   <li>👨‍💻 I’m currently working on a <b> videogame.</b> </li>
   <li>🧠 I’m currently learning <b>typescript, react native and AI</b> </li>
