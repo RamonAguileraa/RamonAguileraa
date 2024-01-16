@@ -9,5 +9,7 @@
   <li>📫 How to reach me: ... ramonaguileraa1@outlook.com </li>
   <li>⚡ Fun fact: I love dogs 🐶 </li>
 </ul>
-
-
+<h2>Skills</h2>
+<hr/>
+<img src="![Uploading image.png…]()
+">
