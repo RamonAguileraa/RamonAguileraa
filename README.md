@@ -11,5 +11,5 @@
 </ul>
 <h2>Skills</h2>
 <hr/>
-<img src="![Uploading image.png…]()
+<img src="https://www.svgrepo.com/show/373669/html.svg"
 ">
