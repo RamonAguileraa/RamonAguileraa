@@ -12,7 +12,17 @@
 <h2>Skills</h2>
 <hr/>
 <img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
-<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
-<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
-<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
-<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/473818/unity.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/354259/react.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/452156/angular.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/353488/blender.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/373969/php2.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/373968/photoshop.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/439238/nodejs.svg" width= "48px"">
+
+
