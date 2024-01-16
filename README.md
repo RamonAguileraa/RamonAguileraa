@@ -11,5 +11,8 @@
 </ul>
 <h2>Skills</h2>
 <hr/>
-<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"
-">
+<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
+<img src="https://www.svgrepo.com/show/373669/html.svg" width= "48px"">
