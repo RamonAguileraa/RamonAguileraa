@@ -1,10 +1,10 @@
 ### <h1>Hi there im Ramón Aguilera! 👋</h1>
 <hr/>
 <h3> ✨ My passion for technology drives me to continuously learn and experiment with the latest tools and languages. I´m A highly motivated software developer and designer with a passion for technology. 
-
+  
 <ul>
   <li>👨‍💻 I’m currently working on a <b> videogame.</b> </li>
-  <li>🧠 I’m currently learning <b>typescript, react native and AI</b> </li>
+  <li>🧠 I’m currently learning <b>typescript, react native and NextJs</b> </li>
   <li>👯 I’m open to collaborate in any project to help </li>
   <li>📫 How to reach me: ... ramonaguileraa1@outlook.com </li>
   <li>⚡ Fun fact: I love dogs 🐶 </li>
