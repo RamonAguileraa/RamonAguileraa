@@ -11,10 +11,7 @@
 </ul>
 <h2>Skills</h2>
 <hr/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ForaAngel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ForaAngel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ForaAngel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ForaAngel&icon=2&color=8)](https://visitcount.itsvg.in)
