@@ -12,7 +12,7 @@
 <h2>Skills</h2>
 <hr/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonAguileraa)](https://github.com/RamonAguileraa/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=ForaAngel&icon=2&color=8)](https://visitcount.itsvg.in)
 
