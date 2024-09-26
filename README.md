@@ -6,7 +6,7 @@
   <li>👨‍💻 I’m currently working on a <b> videogame.</b> </li>
   <li>🧠 I’m currently learning <b>typescript, react native and NextJs</b> </li>
   <li>👯 I’m open to collaborate in any project to help </li>
-  <li>📫 How to reach me: ... ramonaguileraa1@outlook.com </li>
+  <li>📫 How to reach me: ... ramonaguileradve@gmail.com </li>
   <li>⚡ Fun fact: I love dogs 🐶 </li>
 </ul>
 <h2>Skills</h2>
