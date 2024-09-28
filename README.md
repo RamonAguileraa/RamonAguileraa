@@ -10,6 +10,7 @@
   <li>📫 Reach out to me at: <a href="mailto:ramonaguileradve@gmail.com" style="color: #0073e6;">ramonaguileradve@gmail.com</a></li>
   <li>⚡ Fun fact: I love dogs 🐶, especially my pug, Boster!</li>
 </ul>
+Let's connect and create amazing things! 🚀
 
 <h2>Skills</h2>
 <hr/>
