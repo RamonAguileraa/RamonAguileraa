@@ -1,14 +1,16 @@
-### <h1>Hi there im Ramón Aguilera! 👋</h1>
-<hr/>
-<h3> ✨ My passion for technology drives me to continuously learn and experiment with the latest tools and languages. I´m A highly motivated software developer and designer with a passion for technology. 
-  
-<ul>
-  <li>👨‍💻 I’m currently working on a <b> videogame.</b> </li>
-  <li>🧠 I’m currently learning <b>typescript, react native and NextJs</b> </li>
-  <li>👯 I’m open to collaborate in any project to help </li>
-  <li>📫 How to reach me: ... ramonaguileradve@gmail.com </li>
-  <li>⚡ Fun fact: I love dogs 🐶 </li>
+<h1 style="font-size: 2.5em; text-align: center;">Hi there, I'm Ramón Aguilera! 👋</h1>
+<hr style="border: 1px solid #ddd; margin: 20px 0;" />
+
+<h3 style="font-weight: 400; color: #333;">✨ My passion for technology drives me to continuously learn and experiment with the latest tools and languages. I’m a highly motivated software developer and designer with a deep passion for tech.</h3>
+
+<ul style="list-style: none; padding: 0; line-height: 1.8;">
+  <li>👨‍💻 I’m currently working on an <b>exciting videogame project</b>.</li>
+  <li>🧠 I’m learning <b>TypeScript, React Native, and Next.js</b> to sharpen my skills.</li>
+  <li>👯 I’m open to collaborating on new and interesting projects!</li>
+  <li>📫 Reach out to me at: <a href="mailto:ramonaguileradve@gmail.com" style="color: #0073e6;">ramonaguileradve@gmail.com</a></li>
+  <li>⚡ Fun fact: I love dogs 🐶, especially my pug, Boster!</li>
 </ul>
+
 <h2>Skills</h2>
 <hr/>
 
