@@ -1,20 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'm+Ramón+Aguilera;Full-Stack+Developer;Software+Engineer;Passionate+about+UI%2FUX+%26+Tech!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Ramón+Aguilera;Full-Stack+Developer;Software+Engineer;Passionate+about+UI%2FUX+%26+Web+Performance!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamonAguileraa&label=Total%20Profile%20Visits&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RamonAguileraa&label=Total%20Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/RamonAguileraa?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
 ## 🌟 About Me  
-🚀 **Web Developer & Software Engineer** specializing in **Next.js, TypeScript, Supabase, and UI/UX Design**. Passionate about **building high-performance web applications** and optimizing user experiences.  
+I'm a **Web Developer & Software Engineer** with a passion for **building high-performance web applications, optimizing UI/UX, and implementing digital solutions for businesses**.  
 
-🔹 Currently working on **a news platform for TV channels (2024-2025)**  
-🔹 Exploring **AI-driven web applications** and **scalable SaaS solutions**  
-🔹 Open to **collaborations, freelance projects, and exciting opportunities**  
+🔹 Experienced in **full-stack development**, specializing in **Next.js, TypeScript, and Supabase**.  
+🔹 Passionate about **web performance, scalable architectures, and design systems**.  
+🔹 Strong background in **branding, business-oriented web solutions, and marketing strategies**.  
+🔹 Constantly exploring **new technologies and innovative approaches** to improve user experiences.  
 
 ---
 
@@ -46,27 +47,12 @@
 
 ---
 
-## 🚀 Featured Projects  
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📰 News Channel Web App (2024 – 2025)</h3>
-      <p>A dynamic news platform built for a TV channel with an admin panel for content management.</p>
-      <p><b>Tech:</b> Next.js, Supabase, TailwindCSS</p>
-      <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="100%" alt="Project Screenshot" />
-      <br>
-      🔗 <a href="#">Live Demo</a> | 🔗 <a href="#">GitHub Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🎟 Venue Rental Platform</h3>
-      <p>A venue booking system with AI-based recommendations and online payments.</p>
-      <p><b>Tech:</b> Next.js, TypeScript, Stripe API, Supabase</p>
-      <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="100%" alt="Project Screenshot" />
-      <br>
-      🔗 <a href="#">Live Demo</a> | 🔗 <a href="#">GitHub Repo</a>
-    </td>
-  </tr>
-</table>
+## 🚀 What I Do  
+✔ **Full-Stack Web Development** – Creating dynamic, responsive, and scalable web applications.  
+✔ **UI/UX Optimization** – Improving user experience through performance-focused design.  
+✔ **Branding & Business Solutions** – Developing web platforms that align with business goals.  
+✔ **API & Database Management** – Building efficient and secure backend architectures.  
+✔ **Tech Exploration** – Constantly learning and integrating new tools and frameworks.  
 
 ---
 
@@ -81,5 +67,4 @@
 
 ## ⚡ Fun Fact  
 🐶 I love dogs, especially my pug, **Boster**!  
-🎮 In my free time, I'm working on an **indie game project**!  
-
+🎮 In my free time, I enjoy experimenting with **game development and creative projects**.  
