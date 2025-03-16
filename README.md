@@ -1,90 +1,55 @@
-<h1 align="center">Hi, I'm Ramón Aguilera 👨‍💻</h1>
-<p align="center">
-  <b>Web Developer | Software Engineer</b> <br>
-  Passionate about creating high-performance, user-friendly web applications.  
-</p>
+<h1 align="center" style="font-size: 2.5em;">Hi there, I'm Ramón Aguilera! 👋</h1>
+<h3 align="center">🚀 Web Developer & Software Engineer | Passionate about UI/UX, Web Performance, and Digital Solutions</h3>
 
 <p align="center">
-  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/github/followers/tu-usuario?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-brightgreen" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=RamonAguileraa&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Engineering student in Software Development (8th semester)  
-- 💡 Specialized in **full-stack development, UI/UX design, and digital branding**  
-- 🔥 Passionate about **Next.js, TypeScript, Supabase, and high-performance web applications**  
-- 📩 Looking for **collaborations, freelance projects, and full-time opportunities**  
+## 🌟 About Me
+- 👨‍💻 Currently working on a **News Platform for TV Channels (2024-2025)**  
+- 🧠 Learning **AI integrations for web applications**  
+- 🎮 Developing an **exciting videogame project**  
+- 👯 Open to collaborating on **full-stack development & SaaS projects**  
+- ⚡ Fun fact: I love dogs 🐶, especially my pug, Boster!  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### **Frontend**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,css,html" />
-</p>
-
-### **Backend & Databases**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,nodejs,postgres" />
-</p>
-
-### **Tools & Others**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 📌 Featured Projects  
-
-### 📰 **News Channel App (2024 – 2025)**
-A dynamic news platform built for a TV channel, featuring an admin panel for content management.  
-🔹 **Tech Used:** Next.js, Supabase, TailwindCSS  
-🔹 **Features:** Fast API integration, mobile-friendly, optimized database queries  
-
-<p align="left">
-  <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="80%" alt="Project Screenshot" />
-</p>
-
-🔗 **Live Demo:** [news-channel-app.com](#)  
-🔗 **GitHub Repo:** [github.com/tu-usuario/news-channel-app](#)  
-
----
-
-### 🎟 **Venue Rental Platform**
-A booking system with AI-based recommendations and online payments.  
-🔹 **Tech Used:** Next.js, TypeScript, Stripe API, Supabase  
-
-<p align="left">
-  <img src="https://via.placeholder.com/800x400?text=Project+Screenshot" width="80%" alt="Project Screenshot" />
-</p>
-
-🔗 **Live Demo:** [venue-rental.com](#)  
-🔗 **GitHub Repo:** [github.com/tu-usuario/venue-rental](#)  
-
----
-
-## 📊 GitHub Stats  
-
+## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,react,supabase,postgresql,git,figma,vscode,linux,unity,blender,nodejs,arduino" />
 </p>
 
 ---
 
-## 🌎 Connect with Me  
-
-<p align="left">
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"></a>
-  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/Portfolio-Website-brightgreen" alt="Portfolio"></a>
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RamonAguileraa&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RamonAguileraa&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonAguileraa&layout=compact&theme=radical" />
 </p>
 
+---
+
+## 🚀 Featured Projects  
+| Project | Description | Technologies |
+|---------|------------|--------------|
+| **News Channel Web App** | Dynamic news platform with an admin panel | Next.js, Supabase |
+| **Venue Rental Platform** | Online booking system with AI recommendations | React, Tailwind, Firebase |
+| **Startup Branding & Websites** | Developed custom websites for multiple businesses | Next.js, TypeScript |
+
+---
+
+## 📬 Let's Connect!  
+<p align="center">
+  <a href="https://linkedin.com/in/ramonaguileraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/RamonAguileraa" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ramonaguileradve@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+💻 **"Building scalable web applications, optimizing user experiences, and creating digital impact."** 🚀
