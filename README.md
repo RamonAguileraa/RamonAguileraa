@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20[Ramón Aguilera]%20👋&fontSize=42&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20|%20Creador%20de%20Soluciones&descAlignY=51&descAlign=50&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Ramón%20Aguilera%20👋&fontSize=42&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20|%20Creador%20de%20Soluciones&descAlignY=51&descAlign=50&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre Mí
 
-
+```typescript
 const desarrollador = {
-    nombre: "Tu Nombre",
+    nombre: "Ramón Aguilera",
     ubicacion: "Chihuahua, México 🇲🇽",
     rol: "Full Stack Developer",
     experiencia: ["Backend", "Frontend", "DevOps", "Cloud"],
@@ -20,11 +20,11 @@ const desarrollador = {
     intereses: ["Open Source", "Arquitectura de Software", "Tech Innovation"],
     contacto: {
         email: "ramonaguileradve@gmail.com",
-        linkedin: "www.linkedin.com/in/ramón-aguilera-95a2732a9",
+        linkedin: "ramón-aguilera-95a2732a9",
         portfolio: "https://ramon-webdev.vercel.app/"
     }
 };
-
+```
 
 ## 🛠️ Stack Tecnológico
 
@@ -76,7 +76,7 @@ const desarrollador = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8BF7&icon_color=3F8BF7&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonAguileraa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8BF7&icon_color=3F8BF7&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonAguileraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8BF7&text_color=C9D1D9" alt="Top Languages" height="170"/>
 </div>
 
@@ -106,7 +106,7 @@ const desarrollador = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USERNAME&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamonAguileraa&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RamonAguileraa&theme=tokyonight&utcOffset=-7" alt="Productive Time"/>
 </div>
 
@@ -120,8 +120,8 @@ const desarrollador = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PROYECTO1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/TU_USERNAME/PROYECTO1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PROYECTO2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/TU_USERNAME/PROYECTO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PROYECTO1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/RamonAguileraa/PROYECTO1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PROYECTO2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/RamonAguileraa/PROYECTO2)
 
 </div>
 
@@ -129,11 +129,11 @@ const desarrollador = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://ramon-webdev.vercel.app/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([https://tuportfolio.com](https://ramon-webdev.vercel.app/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/tu-usuario](https://x.com/fakinmeimon))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramón-aguilera-95a2732a9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ramon-webdev.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fakinmeimon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonaguileradve@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamonAguileraa)
 
 </div>
 
@@ -159,6 +159,10 @@ const desarrollador = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
   ### ⭐ De [Ramón Aguilera](https://github.com/RamonAguileraa)
+  
+  *"El código es poesía en movimiento"* 💻✨
+  
+</div>Aguileraa)
   
   *"El código es poesía en movimiento"* 💻✨
   
