@@ -10,7 +10,6 @@
 
 ## 🚀 Sobre Mí
 
-```typescript
 const desarrollador = {
     nombre: "Ramón Aguilera",
     ubicacion: "Chihuahua, México 🇲🇽",
@@ -24,7 +23,6 @@ const desarrollador = {
         portfolio: "https://ramon-webdev.vercel.app/"
     }
 };
-```
 
 ## 🛠️ Stack Tecnológico
 
