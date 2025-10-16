@@ -10,6 +10,7 @@
 
 ## 🚀 Sobre Mí
 
+```typescript
 const desarrollador = {
     nombre: "Ramón Aguilera",
     ubicacion: "Chihuahua, México 🇲🇽",
@@ -23,6 +24,7 @@ const desarrollador = {
         portfolio: "https://ramon-webdev.vercel.app/"
     }
 };
+```
 
 ## 🛠️ Stack Tecnológico
 
@@ -157,6 +159,10 @@ const desarrollador = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
   ### ⭐ De [Ramón Aguilera](https://github.com/RamonAguileraa)
+  
+  *"El código es poesía en movimiento"* 💻✨
+  
+</div>
   
   *"El código es poesía en movimiento"* 💻✨
   
