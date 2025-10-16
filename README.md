@@ -1,70 +1,165 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Ramón+Aguilera;Full-Stack+Developer;Software+Engineer;Passionate+about+UI%2FUX+%26+Web+Performance!" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20[Tu%20Nombre]%20👋&fontSize=42&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20|%20Creador%20de%20Soluciones&descAlignY=51&descAlign=50&animation=twinkling"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamonAguileraa&label=Total%20Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RamonAguileraa?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8BF7&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%92%BB;Creando+soluciones+innovadoras+%F0%9F%8C%9F;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A)](https://git.io/typing-svg)
+  
+</div>
+
+## 🚀 Sobre Mí
+
+```typescript
+const desarrollador = {
+    nombre: "Tu Nombre",
+    ubicacion: "Chihuahua, México 🇲🇽",
+    rol: "Full Stack Developer",
+    experiencia: ["Backend", "Frontend", "DevOps", "Cloud"],
+    aprendiendo: ["IA & Machine Learning", "Kubernetes", "Web3"],
+    intereses: ["Open Source", "Arquitectura de Software", "Tech Innovation"],
+    contacto: {
+        email: "tu.email@ejemplo.com",
+        linkedin: "tu-perfil",
+        portfolio: "tuportfolio.com"
+    }
+};
+```
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### 💻 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🧠 IA & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8BF7&icon_color=3F8BF7&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8BF7&text_color=C9D1D9" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8BF7&fire=3F8BF7&currStreakLabel=3F8BF7" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8BF7&line=3F8BF7&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Métricas Detalladas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USERNAME&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USERNAME&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USERNAME&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USERNAME&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USERNAME&theme=tokyonight&utcOffset=-7" alt="Productive Time"/>
+</div>
+
+## 🐍 Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=PROYECTO1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/TU_USERNAME/PROYECTO1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=PROYECTO2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/TU_USERNAME/PROYECTO2)
+
+</div>
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tu-usuario)
+
+</div>
+
+## 💡 Quote del Día
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+## 👀 Visitas al Perfil
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/TU_USERNAME/count.svg)
+
+</div>
 
 ---
 
-## 🌟 About Me  
-I'm a **Web Developer & Software Engineer** with a passion for **building high-performance web applications, optimizing UI/UX, and implementing digital solutions for businesses**.  
-
-🔹 Experienced in **full-stack development**, specializing in **Next.js, TypeScript, and Supabase**.  
-🔹 Passionate about **web performance, scalable architectures, and design systems**.  
-🔹 Strong background in **branding, business-oriented web solutions, and marketing strategies**.  
-🔹 Constantly exploring **new technologies and innovative approaches** to improve user experiences.  
-
----
-
-## 🛠️ Tech Stack  
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,supabase,nodejs,postgresql,figma,git,linux" /></td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics  
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RamonAguileraa&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamonAguileraa&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamonAguileraa&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamonAguileraa&theme=radical" />
-</p>
-
----
-
-## 🚀 What I Do  
-✔ **Full-Stack Web Development** – Creating dynamic, responsive, and scalable web applications.  
-✔ **UI/UX Optimization** – Improving user experience through performance-focused design.  
-✔ **Branding & Business Solutions** – Developing web platforms that align with business goals.  
-✔ **API & Database Management** – Building efficient and secure backend architectures.  
-✔ **Tech Exploration** – Constantly learning and integrating new tools and frameworks.  
-
----
-
-## 📬 Let's Connect  
-<p align="center">
-  <a href="https://linkedin.com/in/ramonaguileraa"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/RamonAguileraa"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:ramonaguileradve@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-</p>
-
----
-
-## ⚡ Fun Fact  
-🐶 I love dogs, especially my pug, **Boster**!  
-🎮 In my free time, I enjoy experimenting with **game development and creative projects**.  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  
+  ### ⭐ De [Ramón Aguilera](https://github.com/RamonAguileraa)
+  
+  *"El código es poesía en movimiento"* 💻✨
+  
+</div>
