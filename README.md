@@ -121,7 +121,7 @@ const desarrollador = {
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PROYECTO1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/RamonAguileraa/petkeeper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PROYECTO2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/RamonAguileraa/PROYECTO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?RamonAguileraa=RamonAguileraa&repo=PROYECTO2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/RamonAguileraa/rincon_del_grano)
 
 </div>
 
