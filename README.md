@@ -1,126 +1,137 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ramón%20Aguilera&fontSize=52&fontAlignY=36&desc=Software%20Developer%20·%20Founder%20·%20Designer&descAlignY=55&descAlign=50&animation=twinkling"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0f,50:0d1f3c,100:0a0a0f&height=220&section=header&text=Ramón%20Aguilera&fontSize=64&fontColor=ffffff&fontAlignY=72&fontAlign=68&desc=Software%20Developer%20·%20Founder%20·%20Designer&descAlignY=88&descAlign=68&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Desarrollador+en+Secretaría+de+Educación+🏛️;Founder+%26+Líder+de+Innova+Chihuahua+🤖;Full+Stack+Developer+%7C+React+%26+Next.js+🚀;C%23+%7C+ASP.NET+MVC+%7C+Oracle+⚙️;Chihuahua%2C+México+🇲🇽)](https://git.io/typing-svg)
-
+  <a href="https://ramonaguilera.dev"><img src="https://img.shields.io/badge/ramonaguilera.dev-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="mailto:ramonaguileradve@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ramón-aguilera-95a2732a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ramon_aguileraa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/fakinmeimon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=580&lines=Desarrollador+en+Sec.+de+Educación+de+Chihuahua+🏛️;Founder+%26+Líder+de+Comunidad+Innova+🤖;React+·+Next.js+·+C%23+·+ASP.NET+MVC+·+Oracle;Diseñador+·+Marketer+·+Builder;Chihuahua%2C+México+🇲🇽"/>
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 Sobre Mí
+### 🧑‍💻 Sobre mí
 
-```typescript
-const ramon = {
-  nombre:    "Ramón Aguilera",
-  ubicacion: "Chihuahua, México 🇲🇽",
-  roles: [
-    "Software Developer @ Secretaría de Educación de Chihuahua",
-    "Founder & Líder @ Comunidad Innova",
-    "Full Stack Developer · Designer · Marketer",
-  ],
-  stackActual: {
-    backend:  ["C#", "ASP.NET MVC", ".NET Framework"],
-    database: ["Oracle", "Stored Procedures", "Packages"],
-    frontend: ["JavaScript", "jQuery", "Bootstrap", "DataTables"],
-    vcs:      ["TFS / TFVC"],
-  },
-  stackPersonal: ["React", "Next.js", "TypeScript", "Node.js", "TailwindCSS"],
-  diseño:        ["Figma", "Photoshop", "Illustrator", "Lightroom", "Blender"],
-  contacto: {
-    email:     "ramonaguileradve@gmail.com",
-    linkedin:  "ramón-aguilera-95a2732a9",
-    portfolio: "https://ramonaguilera.dev",
-  },
-};
+<table>
+<tr>
+<td valign="top" width="55%">
+
+🏛️ &nbsp;**Desarrollador de Software** en Secretaría de Educación de Chihuahua *(Feb 2026 – hoy)*
+
+🤖 &nbsp;**Founder & Líder** de [Comunidad Innova](https://github.com/RamonAguileraa) — Innovación y Tecnología en Chihuahua *(2025 – hoy)*
+
+🎨 &nbsp;**Fundador** de Studioko — estudio creativo de desarrollo y diseño *(2024 – hoy)*
+
+📍 &nbsp;Chihuahua, México
+
+🎓 &nbsp;Ing. en TICs — Entornos Virtuales y Negocios Digitales
+
+💬 &nbsp;Español nativo · Inglés B2 · Francés básico
+
+</td>
+<td valign="top" width="45%">
+
+```yaml
+actualmente:
+  trabajando_en:
+    - Sistemas institucionales C# / Oracle
+    - Portafolio personal Next.js
+    - Comunidad Innova Chihuahua
+
+  aprendiendo:
+    - Arquitectura de software
+    - SQL avanzado (Oracle)
+    - .NET moderno
+
+  intereses:
+    - Open Source
+    - Comunidades tech
+    - UI/UX & Diseño
 ```
 
----
-
-## 🏛️ Experiencia Actual
-
-| Rol | Organización | Periodo |
-|-----|-------------|---------|
-| 💼 Desarrollador de Software | Secretaría de Educación del Estado de Chihuahua | Feb 2026 – Presente |
-| 🤖 Founder & Líder | Comunidad Innova — Innovación y Tecnología | 2025 – Presente |
-| 🎨 Fundador & Director Creativo | Studioko | 2024 – Presente |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
 <div align="center">
 
-### ⚙️ Trabajo Institucional
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Trabajo institucional**
 
-### 🎨 Frontend & Personal
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,jquery,bootstrap,oracle&theme=dark&perline=6"/>
 
-### 🗄️ Backend & Bases de Datos
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Proyectos personales & freelance**
 
-### 🖌️ Diseño & Creatividad
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,php&theme=dark&perline=6"/>
+
+**Bases de datos**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=6"/>
+
+**Diseño & creatividad**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender&theme=dark&perline=6"/>
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamonAguileraa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonAguileraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonAguileraa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonAguileraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamonAguileraa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamonAguileraa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=666E7A"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamonAguileraa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
-</div>
-
----
-
-## 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamonAguileraa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamonAguileraa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF"/>
 </div>
 
 ---
 
-## 💼 Proyectos Destacados
+### 🏆 Trofeos
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PortafolioWeb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/RamonAguileraa/PortafolioWeb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=petkeeper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/RamonAguileraa/petkeeper)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=RamonAguileraa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </div>
 
 ---
 
-## 🐍 Contribuciones
+### 💼 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/RamonAguileraa/PortafolioWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=PortafolioWeb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  </a>
+  <a href="https://github.com/RamonAguileraa/petkeeper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamonAguileraa&repo=petkeeper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  </a>
+</div>
+
+---
+
+### 🐍 Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RamonAguileraa/RamonAguileraa/output/github-contribution-grid-snake-dark.svg"/>
@@ -128,27 +139,12 @@ const ramon = {
 
 ---
 
-## 📫 Conecta Conmigo
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ramonaguilera.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramón-aguilera-95a2732a9)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonaguileradve@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fakinmeimon)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamonAguileraa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramon_aguileraa)
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a0f,50:0d1f3c,100:0a0a0f&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
-
-  <sub>Desarrollado con pasión desde Chihuahua, México 🇲🇽</sub>
+  <sub>Hecho con ☕ desde Chihuahua, México &nbsp;·&nbsp; <a href="https://ramonaguilera.dev">ramonaguilera.dev</a></sub>
   <br/><br/>
-
-![Visitor Count](https://profile-counter.glitch.me/RamonAguileraa/count.svg)
-
+  <img src="https://profile-counter.glitch.me/RamonAguileraa/count.svg"/>
 </div>
